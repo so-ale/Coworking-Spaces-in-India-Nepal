@@ -15,6 +15,7 @@ List of coworking spaces in India and Nepal
 - [91springBoard](https://www.91springboard.com/coworking-space/hyderabad/kondapur/) Kondapur; ₹600/day
 - [weWork](https://www.wework.com/en-GB/buildings/krishe-emerald--hyderabad) Krishe Emerald - Kondapur; ₹8k/mo
 - [weWork](https://www.wework.com/en-GB/buildings/rajapushpa-summit--hyderabad) Rajapushpa Summit - Gandipet; ₹8.5k/mo
+- [CoWrks](https://www.cowrks.com/coworking-space-hyderabad/hitec-city-skyview) Skyview Hitech City; ₹11500/mo
 
 ## Kathmandu
 
